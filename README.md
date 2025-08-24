@@ -166,4 +166,3 @@ Please ensure that any new code follows the existing style (PEP‑8) and include
 ---
 
 Happy Web Summarising! 🎉
-`````
