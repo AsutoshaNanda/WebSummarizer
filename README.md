@@ -1,4 +1,4 @@
-# Web Summarizer
+# Web Summarizer 
 
 **WebSummarizer** is a lightweight Python project that fetches a web page, extracts its main textual content, and uses OpenAI's language model to generate a concise, markdown‑formatted summary.  
 It is built as an interactive Jupyter notebook (`Web Summarizer.ipynb`) that demonstrates end‑to‑end web‑scraping, text cleaning, prompt engineering, and API calls, making it an excellent learning resource for anyone interested in combining web data extraction with LLM‑driven summarisation.
