@@ -5,7 +5,7 @@ It is built as an interactive Jupyter notebook (`Web Summarizer.ipynb`) that dem
 
 ---
 
-## Table of Contents
+## Table of Contents 
 
 - [Overview](#overview)  
 - [Features](#features)  
